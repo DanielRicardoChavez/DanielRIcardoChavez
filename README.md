@@ -39,7 +39,7 @@
 ### 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deadaniel13&show_icons=true&theme=tokyonight&title_color=00BFFF&icon_color=00BFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielRicardoChavez&show_icons=true&theme=tokyonight&title_color=00BFFF&icon_color=00BFFF" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=deadaniel13&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&sideNums=00BFFF" alt="GitHub Streak" />
 </p>
@@ -67,10 +67,10 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/deadaniel13" target="_blank">
+  <a href="https://github.com/DanielRicardoChavez" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:daniel@example.com" target="_blank">
+  <a href="danielricardochavezmartinez@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/tuusuario" target="_blank">
