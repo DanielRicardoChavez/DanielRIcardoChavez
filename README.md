@@ -70,7 +70,7 @@
   <a href="https://github.com/DanielRicardoChavez" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="danielricardochavezmartinez@gmail.com" target="_blank">
+  <a href="[danielricardochavezmartinez@gmail.com](https://mail.google.com)" target="_blank">
     <img src="https://img.shields.io/badge/email-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/tuusuario" target="_blank">
