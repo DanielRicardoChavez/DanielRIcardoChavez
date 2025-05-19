@@ -16,7 +16,6 @@
   Outside of coding: music 🎵, gaming 🎮, and the color blue 💙.
 </p>
 
-<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="350px" height="250px" />
 
 ---
 
