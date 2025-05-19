@@ -45,7 +45,7 @@
 ### 🔮 GitHub Stats & Quote
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deadaniel13&show_icons=true&theme=tokyonight&title_color=007ACC&icon_color=00BFFF" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielRicardoChavez&show_icons=true&theme=tokyonight&title_color=007ACC&icon_color=00BFFF" alt="GitHub Stats">
   <br><br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteCategory=programming" alt="Programming Quote">
 </p>
