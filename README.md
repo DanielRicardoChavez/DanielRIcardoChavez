@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=007ACC&center=true&vCenter=true&width=600&height=100&lines=Software+Student+%40deadaniel13;Machine+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=007ACC&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+in+Progress;Machine+Learning+Explorer;Lover+of+Blue+%F0%9F%92%99;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG">
   </a>
 </p>
 
@@ -11,41 +11,70 @@
 </p>
 
 <p align="center">
-  <b>I'm Daniel, a passionate Software Development student 💻 always exploring new technologies to solve real-world problems 🚀. </b><br>
-  Currently diving deep into Full Stack Web Development 🌐 and Python 🐍.<br>
-  Besides tech, I enjoy music 🎵 and gaming 🎮.
+  <b>I'm Daniel, a passionate software development student 💻 who loves exploring tech and solving real-world problems 🚀.</b><br>
+  I enjoy building with Python 🐍 and web technologies 🌐.<br>
+  Outside of coding: music 🎵, gaming 🎮, and the color blue 💙.
 </p>
 
-<img align="right" alt="Animated Gif" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/lain.gif" width="350px" height="250px" />
+<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="350px" height="250px" />
 
 ---
 
 ### 🧠 Personal Bits:
-- 🎓 I'm a student dedicated to constant learning.
-- 🌱 Learning Web Development and Python.
-- 💬 Open to questions, ideas, and collaborations.
-- 🎵 Music lover and casual gamer 🎮.
+
+- 🎓 Student of software development.
+- 🌱 Learning Web Dev & Python.
+- 🔥 Passionate about creativity and building.
+- 💬 Happy to collaborate or help — just ask!
+- 💙 I love blue so much, even VS Code is jealous!
 
 ---
 
-### 💙 Languages and Tools:
+### 💙 Languages & Tools:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,nodejs,mysql,git" />
 </p>
 
 ---
 
-### 🔮 GitHub Stats & Quote
+### 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielRicardoChavez&show_icons=true&theme=tokyonight&title_color=007ACC&icon_color=00BFFF" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=deadaniel13&show_icons=true&theme=tokyonight&title_color=00BFFF&icon_color=00BFFF" alt="GitHub Stats" />
   <br><br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteCategory=programming" alt="Programming Quote">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=deadaniel13&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&sideNums=00BFFF" alt="GitHub Streak" />
+</p>
+
+---
+
+### ✨ Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteCategory=programming" />
+</p>
+
+---
+
+### 📊 Dynamic Stats & Badges
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deadaniel13&style=flat-square&color=007ACC" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/code-blue?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/deadaniel13" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:daniel@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
